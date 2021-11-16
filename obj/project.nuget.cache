@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "cjY/IWWpZD4Q+8skMViJ8ckOt4k/Uz+nxF7aSmyhFy98QBV9IbBnUhCwfghsPbCGHPdXDxiDRYfEHh/2/Qnyxg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kokum\\source\\repos\\DiscordNetGen\\PlaywrightDemo\\PlaywrightDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kokum\\.nuget\\packages\\macross.json.extensions\\2.0.0\\macross.json.extensions.2.0.0.nupkg.sha512",
+    "C:\\Users\\kokum\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
+    "C:\\Users\\kokum\\.nuget\\packages\\microsoft.playwright\\1.16.1\\microsoft.playwright.1.16.1.nupkg.sha512",
+    "C:\\Users\\kokum\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\kokum\\.nuget\\packages\\system.text.json\\5.0.2\\system.text.json.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
